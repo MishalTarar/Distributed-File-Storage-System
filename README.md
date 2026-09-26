@@ -33,12 +33,6 @@ This system allows many clients to have access to data and supports operations (
 
 ****************************************************************************************************************
 
-### Technology Stack
-
-![Link to Technology Stack Diagram](images/TechStack.png)
-
-****************************************************************************************************************
-
 ### Usage
 - install all depenedencies as mentioned in requirements.txt
 - Check config.yaml to configure the server IPs and other parameters. 
